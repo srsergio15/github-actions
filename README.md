@@ -10,7 +10,7 @@ Para construir el JAR del proyecto (y lanzar los test):
     ./mvnw clean package
 ```
 
-## Lanzar la aplicación en local (en local)
+## Lanzar la aplicación en local ( en local )
 
 Para lanzar la aplicación el local:
 
